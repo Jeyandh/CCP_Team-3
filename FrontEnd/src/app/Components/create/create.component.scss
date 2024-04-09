@@ -1,0 +1,25 @@
+.field{
+    display: flex;
+   flex-wrap: nowrap;
+  }
+  #input
+  {
+    padding: 0;
+border: none;
+background: none;
+width: 800px;
+  }
+  #input:hover
+  {
+    padding: 0;
+border: none;
+background: none;
+  }
+.card
+{
+    width: 800px;
+}
+.card-title
+{
+    font-size: 25px;
+}
